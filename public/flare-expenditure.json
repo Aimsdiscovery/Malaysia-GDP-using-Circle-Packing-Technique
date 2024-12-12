@@ -1,0 +1,67 @@
+{
+    "name": "flare",
+    "children": [
+     
+     {
+      "name": "by Expenditure",
+      "children": [
+       {"name": "2015", "color":"red", "GDP": 789119,
+        "children": [
+         {"name": "government", "value": 10, "color":"Firebrick", "GDP": 154020},
+         {"name": "private", "value": 90, "color":"green", "GDP": 635099}
+                    ]
+    },
+       {"name": "2016", "color":"red", "GDP": 841704,
+        "children": [
+         {"name": "government", "value": 10, "color":"Firebrick", "GDP": 157024},
+         {"name": "private", "value": 90, "color":"green", "GDP": 684680}
+                    ]
+    },
+       {"name": "2017", "color":"red", "GDP": 927466
+        ,"children": [
+         {"name": "government", "value": 10, "color":"Firebrick", "GDP": 167320},
+         {"name": "private", "value": 90, "color":"green", "GDP": 760146}
+                    ]
+    },
+       {"name": "2018", "color":"yellow", "GDP": 1004678
+        ,"children": [
+         {"name": "government", "value": 100, "color":"red", "GDP": 173290},
+         {"name": "private", "value": 900, "color":"green", "GDP": 831388}
+                    ]
+    },
+       {"name": "2019", "color":"yellow", "GDP": 1080469
+       ,"children": [
+        {"name": "government", "value": 100, "color":"red", "GDP": 176281},
+        {"name": "private", "value": 900, "color":"green", "GDP": 904188}
+                   ]
+    },
+       {"name": "2020", "color":"yellow", "GDP": 1049319
+       ,"children": [
+        {"name": "government", "value": 100, "color":"red", "GDP": 183868},
+        {"name": "private", "value": 900, "color":"green", "GDP": 865451}
+                   ]
+    },
+       {"name": "2021", "color":"MediumSeaGreen", "GDP": 1094515
+       ,"children": [
+        {"name": "government", "value": 2000, "color":"red", "GDP": 195707},
+        {"name": "private", "value": 6000, "color":"green", "GDP": 898359}
+                   ]
+    },
+       {"name": "2022", "color":"MediumSeaGreen", "GDP": 1240647
+       ,"children": [
+        {"name": "government", "value": 2000, "color":"red", "GDP": 207873},
+        {"name": "private", "value": 6000, "color":"green", "GDP": 1033418}
+                   ]
+    },
+       {"name": "2023", "color":"MediumSeaGreen", "GDP": 1321013
+       ,"children": [
+        {"name": "government", "value": 2000, "color":"red", "GDP": 217825},
+        {"name": "private", "value": 6000, "color":"green", "GDP": 1102510}
+                   ]
+    }
+       
+      ]
+     }
+    ]
+   }
+   

@@ -1,0 +1,481 @@
+{
+    "name": "flare",
+    "children": [
+     {
+      "name": "State",
+      "color":"Gainsboro",
+      "children": [
+       {
+        "name": "Selangor",
+        "color":"MediumSeaGreen"
+,        "children": [
+         {"name": "2015", "value": 1, "color":"red", "GDP": 384871},
+         {"name": "2016", "value": 1, "color":"red", "GDP": 384871},
+         {"name": "2017", "value": 1, "color":"red", "GDP": 384871},
+         {"name": "2018", "value": 1, "color":"yellow", "GDP": 384871},
+         {"name": "2019", "value": 1, "color":"green", "GDP": 384871},
+         {"name": "2020", "value": 1, "color":"yellow", "GDP": 384871},
+         {"name": "2021", "value": 1, "color":"green", "GDP": 384871},
+         {"name": "2022", "value": 1, "color":"green", "GDP": 384871}
+        ]
+       },
+       {
+           "name": "Kedah",
+           "color":"yellow",
+           "children": [
+            {"name": "2015", "value": 1, "color":"red", "GDP": 39550},
+            {"name": "2016", "value": 1, "color":"red", "GDP": 41156},
+            {"name": "2017", "value": 1, "color":"red", "GDP": 43067},
+            {"name": "2018", "value": 1, "color":"yellow", "GDP": 44804},
+            {"name": "2019", "value": 1, "color":"green", "GDP": 46841},
+            {"name": "2020", "value": 1, "color":"yellow", "GDP": 46042},
+            {"name": "2021", "value": 1, "color":"green", "GDP": 47511},
+            {"name": "2022", "value": 1, "color":"green", "GDP": 50937}
+        ]
+       },
+       {
+           "name": "Perak",
+           "color":"yellow",
+           "children": [
+            {"name": "2015", "value": 1, "color":"red", "GDP": 63176},
+            {"name": "2016", "value": 1, "color":"red", "GDP": 65958},
+            {"name": "2017", "value": 1, "color":"red", "GDP": 69337},
+            {"name": "2018", "value": 1, "color":"red", "GDP": 73031},
+            {"name": "2019", "value": 1, "color":"red", "GDP": 75993},
+            {"name": "2020", "value": 1, "color":"red", "GDP": 74264},
+            {"name": "2021", "value": 1, "color":"red", "GDP": 76923},
+            {"name": "2022", "value": 1, "color":"red", "GDP": 80213}
+        ]
+       },
+       {
+           "name": "Johor",
+           "color":"MediumSeaGreen",
+           "children": [
+            {"name": "2015", "value": 1, "color":"red", "GDP": 110002},
+            {"name": "2016", "value": 1, "color":"red", "GDP": 116682},
+            {"name": "2017", "value": 1, "color":"red", "GDP": 123561},
+            {"name": "2018", "value": 1, "color":"red", "GDP": 130586},
+            {"name": "2019", "value": 1, "color":"red", "GDP": 134226},
+            {"name": "2020", "value": 1, "color":"red", "GDP": 128074},
+            {"name": "2021", "value": 1, "color":"red", "GDP": 131303},
+            {"name": "2022", "value": 1, "color":"red", "GDP": 142056}
+        ]
+       },
+       {
+           "name": "Kelantan",
+           "color":"red",
+           
+           "children": [
+            {"name": "2015", "value": 1, "color":"red", "GDP": 21408},
+            {"name": "2016", "value": 1, "color":"red", "GDP": 22476},
+            {"name": "2017", "value": 1, "color":"red", "GDP": 23501},
+            {"name": "2018", "value": 1, "color":"red", "GDP": 24143},
+            {"name": "2019", "value": 1, "color":"red", "GDP": 25479},
+            {"name": "2020", "value": 1, "color":"red", "GDP": 25188},
+            {"name": "2021", "value": 1, "color":"red", "GDP": 25797},
+            {"name": "2022", "value": 1, "color":"red", "GDP": 26894}
+        ]
+       },
+       {
+           "name": "Melaka",
+           "color":"yellow",
+           "children": [
+            {"name": "2015", "value": 1, "color":"red", "GDP": 36077},
+            {"name": "2016", "value": 1, "color":"red", "GDP": 37713},
+            {"name": "2017", "value": 1, "color":"red", "GDP": 40830},
+            {"name": "2018", "value": 1, "color":"red", "GDP": 42376},
+            {"name": "2019", "value": 1, "color":"red", "GDP": 43583},
+            {"name": "2020", "value": 1, "color":"red", "GDP": 41030},
+            {"name": "2021", "value": 1, "color":"red", "GDP": 41900},
+            {"name": "2022", "value": 1, "color":"red", "GDP": 45488}
+        ]
+       },
+       {
+           "name": "Negeri Sembilan",
+           "color":"yellow",
+           "children": [
+            {"name": "2015", "value": 1, "color":"red", "GDP": 40186},
+            {"name": "2016", "value": 1, "color":"red", "GDP": 41771},
+            {"name": "2017", "value": 1, "color":"red", "GDP": 43816},
+            {"name": "2018", "value": 1, "color":"red", "GDP": 45694},
+            {"name": "2019", "value": 1, "color":"red", "GDP": 48034},
+            {"name": "2020", "value": 1, "color":"red", "GDP": 46336},
+            {"name": "2021", "value": 1, "color":"red", "GDP": 47783},
+            {"name": "2022", "value": 1, "color":"red", "GDP": 50840}
+        ]
+       },
+       {
+           "name": "Pahang",
+           "color":"yellow",
+           "children": [
+            {"name": "2015", "value": 1, "color":"red", "GDP": 49450},
+            {"name": "2016", "value": 1, "color":"red", "GDP": 50875},
+            {"name": "2017", "value": 1, "color":"red", "GDP": 54591},
+            {"name": "2018", "value": 1, "color":"red", "GDP": 56290},
+            {"name": "2019", "value": 1, "color":"red", "GDP": 58434},
+            {"name": "2020", "value": 1, "color":"red", "GDP": 54885},
+            {"name": "2021", "value": 1, "color":"red", "GDP": 55403},
+            {"name": "2022", "value": 1, "color":"red", "GDP": 61395}
+        ]
+       },
+       {
+           "name": "Pulau Pinang",
+           "color":"MediumSeaGreen",
+           "children": [
+            {"name": "2015", "value": 1, "color":"red", "GDP": 78146},
+            {"name": "2016", "value": 1, "color":"red", "GDP": 82493},
+            {"name": "2017", "value": 1, "color":"red", "GDP": 86768},
+            {"name": "2018", "value": 1, "color":"red", "GDP": 91234},
+            {"name": "2019", "value": 1, "color":"red", "GDP": 94645},
+            {"name": "2020", "value": 1, "color":"red", "GDP": 92691},
+            {"name": "2021", "value": 1, "color":"red", "GDP": 99111},
+            {"name": "2022", "value": 1, "color":"red", "GDP": 112126}
+        ]
+       },
+       {
+           "name": "Perlis",
+           "color":"red",
+           "children": [
+            {"name": "2015", "value": 1, "color":"red", "GDP": 5353},
+            {"name": "2016", "value": 1, "color":"red", "GDP": 5570},
+            {"name": "2017", "value": 1, "color":"red", "GDP": 5695},
+            {"name": "2018", "value": 1, "color":"green", "GDP": 5885},
+            {"name": "2019", "value": 1, "color":"green", "GDP": 6151},
+            {"name": "2020", "value": 1, "color":"yellow", "GDP": 5785},
+            {"name": "2021", "value": 1, "color":"yellow", "GDP": 5868},
+            {"name": "2022", "value": 1, "color":"green", "GDP": 6200}
+        ]
+       },
+       {
+           "name": "Sarawak",
+           "color":"MediumSeaGreen",
+           "children": [
+            {"name": "2015", "value": 1, "color":"green", "GDP": 121585},
+            {"name": "2016", "value": 1, "color":"green", "GDP": 124513},
+            {"name": "2017", "value": 1, "color":"green", "GDP": 130169},
+            {"name": "2018", "value": 1, "color":"green", "GDP": 133010},
+            {"name": "2019", "value": 1, "color":"green", "GDP": 136759},
+            {"name": "2020", "value": 1, "color":"green", "GDP": 127556},
+            {"name": "2021", "value": 1, "color":"green", "GDP": 131572},
+            {"name": "2022", "value": 1, "color":"green", "GDP": 140161}
+        ]
+       },
+       {
+           "name": "Sabah",
+           "color":"yellow",
+           "children": [
+            {"name": "2015", "value": 1, "color":"green", "GDP": 73776},
+            {"name": "2016", "value": 1, "color":"green", "GDP": 77518},
+            {"name": "2017", "value": 1, "color":"green", "GDP": 83793},
+            {"name": "2018", "value": 1, "color":"green", "GDP": 85012},
+            {"name": "2019", "value": 1, "color":"green", "GDP": 85642},
+            {"name": "2020", "value": 1, "color":"green", "GDP": 77840},
+            {"name": "2021", "value": 1, "color":"green", "GDP": 78999},
+            {"name": "2022", "value": 1, "color":"green", "GDP": 81931}
+        ]
+       },
+       {
+           "name": "WP Kuala Lumpur",
+           "color":"MediumSeaGreen",
+           "children": [
+            {"name": "2015", "value": 1, "color":"red", "GDP": 180865},
+            {"name": "2016", "value": 1, "color":"red", "GDP": 191641},
+            {"name": "2017", "value": 1, "color":"red", "GDP": 206175},
+            {"name": "2018", "value": 1, "color":"green", "GDP": 220359},
+            {"name": "2019", "value": 1, "color":"green", "GDP": 233794},
+            {"name": "2020", "value": 1, "color":"yellow", "GDP": 217447},
+            {"name": "2021", "value": 1, "color":"yellow", "GDP": 219706},
+            {"name": "2022", "value": 1, "color":"green", "GDP": 239811}
+        ]
+       },
+       {
+           "name": "WP Labuan",
+           "color":"red",
+           "children": [
+            {"name": "2015", "value": 1, "color":"green", "GDP": 5999},
+            {"name": "2016", "value": 1, "color":"green", "GDP": 6412},
+            {"name": "2017", "value": 1, "color":"green", "GDP": 6790},
+            {"name": "2018", "value": 1, "color":"green", "GDP": 7245},
+            {"name": "2019", "value": 1, "color":"green", "GDP": 7623},
+            {"name": "2020", "value": 1, "color":"green", "GDP": 7613},
+            {"name": "2021", "value": 1, "color":"green", "GDP": 7650},
+            {"name": "2022", "value": 1, "color":"green", "GDP": 7954}
+        ]
+       },
+       {
+        "name": "Terengganu",
+        "color":"red",
+        "children": [
+         {"name": "2015", "value": 1, "color":"green", "GDP": 31124},
+         {"name": "2016", "value": 1, "color":"green", "GDP": 32133},
+         {"name": "2017", "value": 1, "color":"green", "GDP": 33979},
+         {"name": "2018", "value": 1, "color":"green", "GDP": 34838},
+         {"name": "2019", "value": 1, "color":"green", "GDP": 36001},
+         {"name": "2020", "value": 1, "color":"green", "GDP": 33994},
+         {"name": "2021", "value": 1, "color":"green", "GDP": 35238},
+         {"name": "2022", "value": 1, "color":"green", "GDP": 37309}
+     ]
+    }
+      ]
+     },
+     {
+      "name": "by Expenditure",
+      "children": [
+       {"name": "2015", "value": 1, "color":"red", "GDP": 789119,
+        "children": [
+         {"name": "government", "value": 1, "color":"Firebrick"},
+         {"name": "private", "value": 1, "color":"green"}
+                    ]
+    },
+       {"name": "2016", "value": 1, "color":"red", "GDP": 841704,
+        "children": [
+         {"name": "government", "value": 1, "color":"Firebrick"},
+         {"name": "private", "value": 1, "color":"green"}
+                    ]
+    },
+       {"name": "2017", "value": 1, "color":"red", "GDP": 927466
+        ,"children": [
+         {"name": "government", "value": 1, "color":"Firebrick"},
+         {"name": "private", "value": 1, "color":"green"}
+                    ]
+    },
+       {"name": "2018", "value": 1, "color":"yellow", "GDP": 1004678
+        ,"children": [
+         {"name": "government", "value": 1, "color":"Firebrick"},
+         {"name": "private", "value": 1, "color":"green"}
+                    ]
+    },
+       {"name": "2019", "value": 1, "color":"yellow", "GDP": 1080469
+       ,"children": [
+        {"name": "government", "value": 1, "color":"Firebrick"},
+        {"name": "private", "value": 1, "color":"green"}
+                   ]
+    },
+       {"name": "2020", "value": 1, "color":"yellow", "GDP": 1049319
+       ,"children": [
+        {"name": "government", "value": 1, "color":"Firebrick"},
+        {"name": "private", "value": 1, "color":"green"}
+                   ]
+    },
+       {"name": "2021", "value": 1, "color":"MediumSeaGreen", "GDP": 1094515
+       ,"children": [
+        {"name": "government", "value": 1, "color":"Firebrick"},
+        {"name": "private", "value": 1, "color":"green"}
+                   ]
+    },
+       {"name": "2022", "value": 1, "color":"MediumSeaGreen", "GDP": 1240647
+       ,"children": [
+        {"name": "government", "value": 1, "color":"Firebrick"},
+        {"name": "private", "value": 1, "color":"green"}
+                   ]
+    },
+       {"name": "2023", "value": 1, "color":"MediumSeaGreen", "GDP": 1321013
+       ,"children": [
+        {"name": "government", "value": 1, "color":"Firebrick"},
+        {"name": "private", "value": 1, "color":"green"}
+                   ]
+    }
+       
+      ]
+     },
+     {
+      "name": "By Economic Activity",
+      "color":"Gainsboro",
+      "children": [
+       {
+           "name": "Agriculture",
+           "color":"MediumSeaGreen",
+           "children": [
+            {"name": "2015", "value": 1, "color":"green", "GDP": 97539},
+            {"name": "2016", "value": 1, "color":"green", "GDP": 105756},
+            {"name": "2017", "value": 1, "color":"green", "GDP": 117995},
+            {"name": "2018", "value": 1, "color":"green", "GDP": 108757},
+            {"name": "2019", "value": 1, "color":"green", "GDP": 109542},
+            {"name": "2020", "value": 1, "color":"green", "GDP": 115830},
+            {"name": "2021", "value": 1, "color":"green", "GDP": 148173}
+           ]
+          },
+          {
+           "name": "Mining and Quarrying",
+           "color":"MediumSeaGreen",
+           "children": [
+            {"name": "2015", "value": 1, "color":"green", "GDP": 103059},
+            {"name": "2016", "value": 1, "color":"green", "GDP": 103959},
+            {"name": "2017", "value": 1, "color":"green", "GDP": 121326},
+            {"name": "2018", "value": 1, "color":"green", "GDP": 134833},
+            {"name": "2019", "value": 1, "color":"green", "GDP": 131084},
+            {"name": "2020", "value": 1, "color":"green", "GDP": 96172},
+            {"name": "2021", "value": 1, "color":"green", "GDP": 123572}
+           ]
+          },
+          {
+           "name": "Manufacturing",
+           "color":"MediumSeaGreen",
+           "children": [
+            {"name": "2015", "value": 1, "color":"red", "GDP": 262379},
+            {"name": "2016", "value": 1, "color":"red", "GDP": 272396},
+            {"name": "2017", "value": 1, "color":"red", "GDP": 299797},
+            {"name": "2018", "value": 1, "color":"yellow", "GDP": 311676},
+            {"name": "2019", "value": 1, "color":"green", "GDP": 323862},
+            {"name": "2020", "value": 1, "color":"yellow", "GDP": 315534},
+            {"name": "2021", "value": 1, "color":"green", "GDP": 362671}
+           ]
+          },
+          {
+           "name": "Construction",
+           "color":"Yellow",
+           "children": [
+            {"name": "2015", "value": 1, "color":"green", "GDP": 55382},
+            {"name": "2016", "value": 1, "color":"green", "GDP": 61089},
+            {"name": "2017", "value": 1, "color":"green", "GDP": 66552},
+            {"name": "2018", "value": 1, "color":"green", "GDP": 70048},
+            {"name": "2019", "value": 1, "color":"green", "GDP": 71067},
+            {"name": "2020", "value": 1, "color":"green", "GDP": 57657},
+            {"name": "2021", "value": 1, "color":"green", "GDP": 55621}
+           ]
+          },
+          {
+           "name": "Electricity and Gas",
+           "color":"red",
+           "children": [
+            {"name": "2015", "value": 1, "color":"green", "GDP": 25774},
+            {"name": "2016", "value": 1, "color":"green", "GDP": 26953},
+            {"name": "2017", "value": 1, "color":"green", "GDP": 28225},
+            {"name": "2018", "value": 1, "color":"green", "GDP": 30102},
+            {"name": "2019", "value": 1, "color":"green", "GDP": 32556},
+            {"name": "2020", "value": 1, "color":"green", "GDP": 31402},
+            {"name": "2021", "value": 1, "color":"green", "GDP": 31754}
+           ]
+          },
+          {
+           "name": "Water, sewerage and waste management",
+           "color":"Red",
+           "children": [
+            {"name": "2015", "value": 1, "color":"green", "GDP": 5936},
+            {"name": "2016", "value": 1, "color":"green", "GDP": 6530},
+            {"name": "2017", "value": 1, "color":"green", "GDP": 7152},
+            {"name": "2018", "value": 1, "color":"green", "GDP": 7709},
+            {"name": "2019", "value": 1, "color":"green", "GDP": 8353},
+            {"name": "2020", "value": 1, "color":"green", "GDP": 9107},
+            {"name": "2021", "value": 1, "color":"green", "GDP": 9894}
+           ]
+          },
+          {
+           "name": "Wholesale trade",
+           "color":"Yellow",
+           "children": [
+            {"name": "2015", "value": 1, "color":"green", "GDP": 82183},
+            {"name": "2016", "value": 1, "color":"green", "GDP": 88360},
+            {"name": "2017", "value": 1, "color":"green", "GDP": 96980},
+            {"name": "2018", "value": 1, "color":"green", "GDP": 104884},
+            {"name": "2019", "value": 1, "color":"green", "GDP": 111768},
+            {"name": "2020", "value": 1, "color":"green", "GDP": 106003},
+            {"name": "2021", "value": 1, "color":"green", "GDP": 111406}
+           ]
+          },
+          {
+           "name": "Retail trade",
+           "color":"Yellow",
+           "children": [
+            {"name": "2015", "value": 1, "color":"green", "GDP": 78555},
+            {"name": "2016", "value": 1, "color":"green", "GDP": 86686},
+            {"name": "2017", "value": 1, "color":"green", "GDP": 97497},
+            {"name": "2018", "value": 1, "color":"green", "GDP": 107690},
+            {"name": "2019", "value": 1, "color":"green", "GDP": 116574},
+            {"name": "2020", "value": 1, "color":"green", "GDP": 111257},
+            {"name": "2021", "value": 1, "color":"green", "GDP": 116198}
+           ]
+          },
+          {
+           "name": "Motor Vehicles",
+           "color":"red",
+           "children": [
+            {"name": "2015", "value": 1, "color":"green", "GDP": 23285},
+            {"name": "2016", "value": 1, "color":"green", "GDP": 23108},
+            {"name": "2017", "value": 1, "color":"green", "GDP": 23841},
+            {"name": "2018", "value": 1, "color":"green", "GDP": 24665},
+            {"name": "2019", "value": 1, "color":"green", "GDP": 25514},
+            {"name": "2020", "value": 1, "color":"green", "GDP": 23267},
+            {"name": "2021", "value": 1, "color":"green", "GDP": 20426}
+           ]
+          },
+          {
+           "name": "Food and Beverages",
+           "color":"red",
+           "children": [
+            {"name": "2015", "value": 1, "color":"green", "GDP": 28352},
+            {"name": "2016", "value": 1, "color":"green", "GDP": 31745},
+            {"name": "2017", "value": 1, "color":"green", "GDP": 35702},
+            {"name": "2018", "value": 1, "color":"green", "GDP": 40596},
+            {"name": "2019", "value": 1, "color":"green", "GDP": 46277},
+            {"name": "2020", "value": 1, "color":"green", "GDP": 37796},
+            {"name": "2021", "value": 1, "color":"green", "GDP": 35927}
+           ]
+          },
+          {
+           "name": "Accomodation",
+           "color":"Red",
+           "children": [
+            {"name": "2015", "value": 1, "color":"green", "GDP": 7867},
+            {"name": "2016", "value": 1, "color":"green", "GDP": 8408},
+            {"name": "2017", "value": 1, "color":"green", "GDP": 9037},
+            {"name": "2018", "value": 1, "color":"green", "GDP": 9738},
+            {"name": "2019", "value": 1, "color":"green", "GDP": 10528},
+            {"name": "2020", "value": 1, "color":"green", "GDP": 5248},
+            {"name": "2021", "value": 1, "color":"green", "GDP": 4020}
+           ]
+          },
+          {
+           "name": "Transport and Storage",
+           "color":"Yellow",
+           "children": [
+            {"name": "2015", "value": 1, "color":"green", "GDP": 42057},
+            {"name": "2016", "value": 1, "color":"green", "GDP": 45234},
+            {"name": "2017", "value": 1, "color":"green", "GDP": 48786},
+            {"name": "2018", "value": 1, "color":"green", "GDP": 52707},
+            {"name": "2019", "value": 1, "color":"green", "GDP": 57107},
+            {"name": "2020", "value": 1, "color":"green", "GDP": 45555},
+            {"name": "2021", "value": 1, "color":"green", "GDP": 46718}
+           ]
+          }
+      ]
+     },
+     
+     {
+      "name": "Year",
+      "children": [
+       {"name": "2015", "value": 1, "color":"red", "GDP": 1176941},
+       {"name": "2016", "value": 1, "color":"red", "GDP": 1249697},
+       {"name": "2017", "value": 1, "color":"red", "GDP": 1372310},
+       {"name": "2018", "value": 1, "color":"yellow", "GDP": 1447760},
+       {"name": "2019", "value": 1, "color":"yellow", "GDP": 1512738},
+       {"name": "2020", "value": 1, "color":"yellow", "GDP": 1418490},
+       {"name": "2021", "value": 1, "color":"green", "GDP": 1548899},
+       {"name": "2022", "value": 1, "color":"green", "GDP": 1791358},
+       {"name": "2023", "value": 1, "color":"green", "GDP": 1822647}
+       
+      ]
+     },
+     {
+        "name": "Year (Historical)",
+        "children": [
+         {"name": "2005", "value": 2, "color":"red", "GDP": 543578},
+         {"name": "2006", "value": 2, "color":"red", "GDP": 596784},
+         {"name": "2007", "value": 2, "color":"red", "GDP": 665340},
+         {"name": "2008", "value": 5, "color":"yellow", "GDP": 769949},
+         {"name": "2009", "value": 5, "color":"yellow", "GDP": 712857},
+         {"name": "2010", "value": 5, "color":"yellow", "GDP": 797327},
+         {"name": "2011", "value": 6, "color":"green", "GDP": 885339},
+         {"name": "2012", "value": 6, "color":"green", "GDP": 941949},
+         {"name": "2013", "value": 6, "color":"green", "GDP": 986733},
+         {"name": "2014", "value": 6, "color":"green", "GDP": 1070008}
+         
+         
+        ]
+       }
+     
+      
+     
+    ]
+   }
+   

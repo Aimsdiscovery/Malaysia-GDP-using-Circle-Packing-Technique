@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download GDP Data</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: #ffffff;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        h1 {
+            color: #ffffff;
+            font-size: 3em;
+            margin-top: 50px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+        .button {
+            display: inline-block;
+            margin: 10px;
+            padding: 15px 25px;
+            font-size: 1.2em;
+            font-weight: bold;
+            text-align: center;
+            color: #ffffff;
+            background-color: #ff5722;
+            border: none;
+            border-radius: 30px;
+            text-decoration: none;
+            transition: background-color 0.3s, transform 0.3s;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .button:hover {
+            background-color: #e64a19;
+            transform: translateY(-2px);
+        }
+        .navbar {
+            overflow: hidden;
+            background-color: #000000;
+            position: sticky;
+            top: 0;
+            width: 100%;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .navbar a {
+            float: left;
+            display: block;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+            font-size: 1em;
+            transition: background-color 0.3s, color 0.3s;
+        }
+        .navbar a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <a href="index.html">HOME</a>
+        <a href="visualize.html">Visualize</a>
+        <a href="download.html">Download</a>
+        <a href="review2.html">Give Feedback</a>
+        <a href="displayreview.html">Feedback data</a>
+    </div>
+
+    <h1>Download GDP Data</h1>
+    <a href="/DownloadFiles/Economic.xls" download="GDP by Economic Activity Data" class="button">Download GDP Data by Economic Activity</a>
+    <a href="/DownloadFiles/States.xlsx" download="GDP by States Data" class="button">Download GDP Data by States</a>
+    <a href="/DownloadFiles/Expenditure.xlsx" download="GDP by Expenditure Data" class="button">Download GDP Data by Expenditure</a>
+    <a href="/DownloadFiles/Year.xlsx" download="GDP by Year Data" class="button">Download GDP Data by Year</a>
+</body>
+</html>

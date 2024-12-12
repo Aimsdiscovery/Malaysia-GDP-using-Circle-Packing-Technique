@@ -1,0 +1,172 @@
+{
+    "name": "flare",
+    "children": [
+     
+     {
+      "name": "By Economic Activity",
+      "color":"Gainsboro",
+      "children": [
+       {
+           "name": "Agriculture",
+           "color":"MediumSeaGreen",
+           "children": [
+            {"name": "2015", "value": 97539, "color":"red", "GDP": 97539},
+            {"name": "2016", "value": 105756, "color":"yellow", "GDP": 105756},
+            {"name": "2017", "value": 117995, "color":"green", "GDP": 117995},
+            {"name": "2018", "value": 108757, "color":"yellow", "GDP": 108757},
+            {"name": "2019", "value": 109542, "color":"yellow", "GDP": 109542},
+            {"name": "2020", "value": 115830, "color":"green", "GDP": 115830},
+            {"name": "2021", "value": 148173, "color":"green", "GDP": 148173}
+           ]
+          },
+          {
+           "name": "Mining and Quarrying",
+           "color":"MediumSeaGreen",
+           "children": [
+            {"name": "2015", "value": 103059, "color":"yellow", "GDP": 103059},
+            {"name": "2016", "value": 103959, "color":"yellow", "GDP": 103959},
+            {"name": "2017", "value": 121326, "color":"green", "GDP": 121326},
+            {"name": "2018", "value": 134833, "color":"green", "GDP": 134833},
+            {"name": "2019", "value": 131084, "color":"green", "GDP": 131084},
+            {"name": "2020", "value": 96172, "color":"red", "GDP": 96172},
+            {"name": "2021", "value": 123572, "color":"green", "GDP": 123572}
+           ]
+          },
+          {
+           "name": "Manufacturing",
+           "color":"MediumSeaGreen",
+           "children": [
+            {"name": "2015", "value": 262379, "color":"red", "GDP": 262379},
+            {"name": "2016", "value": 272396, "color":"red", "GDP": 272396},
+            {"name": "2017", "value": 299797, "color":"red", "GDP": 299797},
+            {"name": "2018", "value": 311676, "color":"yellow", "GDP": 311676},
+            {"name": "2019", "value": 323862, "color":"green", "GDP": 323862},
+            {"name": "2020", "value": 315534, "color":"yellow", "GDP": 315534},
+            {"name": "2021", "value": 362671, "color":"green", "GDP": 362671}
+           ]
+          },
+          {
+           "name": "Construction",
+           "color":"Yellow",
+           "children": [
+            {"name": "2015", "value": 55382, "color":"red", "GDP": 55382},
+            {"name": "2016", "value": 61089, "color":"yellow", "GDP": 61089},
+            {"name": "2017", "value": 66552, "color":"yellow", "GDP": 66552},
+            {"name": "2018", "value": 70048, "color":"green", "GDP": 70048},
+            {"name": "2019", "value": 71067, "color":"green", "GDP": 71067},
+            {"name": "2020", "value": 57657, "color":"red", "GDP": 57657},
+            {"name": "2021", "value": 55621, "color":"red", "GDP": 55621}
+           ]
+          },
+          {
+           "name": "Electricity and Gas",
+           "color":"red",
+           "children": [
+            {"name": "2015", "value": 25774, "color":"red", "GDP": 25774},
+            {"name": "2016", "value": 26953, "color":"red", "GDP": 26953},
+            {"name": "2017", "value": 28225, "color":"yellow", "GDP": 28225},
+            {"name": "2018", "value": 30102, "color":"yellow", "GDP": 30102},
+            {"name": "2019", "value": 32556, "color":"green", "GDP": 32556},
+            {"name": "2020", "value": 31402, "color":"green", "GDP": 31402},
+            {"name": "2021", "value": 31754, "color":"green", "GDP": 31754}
+           ]
+          },
+          {
+           "name": "Water, sewerage and waste management",
+           "color":"Red",
+           "children": [
+            {"name": "2015", "value": 5936, "color":"red", "GDP": 5936},
+            {"name": "2016", "value": 6530, "color":"red", "GDP": 6530},
+            {"name": "2017", "value": 7152, "color":"yellow", "GDP": 7152},
+            {"name": "2018", "value": 7709, "color":"yellow", "GDP": 7709},
+            {"name": "2019", "value": 8353, "color":"green", "GDP": 8353},
+            {"name": "2020", "value": 9107, "color":"green", "GDP": 9107},
+            {"name": "2021", "value": 9894, "color":"green", "GDP": 9894}
+           ]
+          },
+          {
+           "name": "Wholesale trade",
+           "color":"Yellow",
+           "children": [
+            {"name": "2015", "value": 82183, "color":"red", "GDP": 82183},
+            {"name": "2016", "value": 88360, "color":"red", "GDP": 88360},
+            {"name": "2017", "value": 96980, "color":"yellow", "GDP": 96980},
+            {"name": "2018", "value": 104884, "color":"yellow", "GDP": 104884},
+            {"name": "2019", "value": 111768, "color":"green", "GDP": 111768},
+            {"name": "2020", "value": 106003, "color":"green", "GDP": 106003},
+            {"name": "2021", "value": 111406, "color":"green", "GDP": 111406}
+           ]
+          },
+          {
+           "name": "Retail trade",
+           "color":"Yellow",
+           "children": [
+            {"name": "2015", "value": 78555, "color":"red", "GDP": 78555},
+            {"name": "2016", "value": 86686, "color":"red", "GDP": 86686},
+            {"name": "2017", "value": 97497, "color":"yellow", "GDP": 97497},
+            {"name": "2018", "value": 107690, "color":"yellow", "GDP": 107690},
+            {"name": "2019", "value": 116574, "color":"green", "GDP": 116574},
+            {"name": "2020", "value": 111257, "color":"green", "GDP": 111257},
+            {"name": "2021", "value": 116198, "color":"green", "GDP": 116198}
+           ]
+          },
+          {
+           "name": "Motor Vehicles",
+           "color":"red",
+           "children": [
+            {"name": "2015", "value": 23285, "color":"yellow", "GDP": 23285},
+            {"name": "2016", "value": 23108, "color":"yellow", "GDP": 23108},
+            {"name": "2017", "value": 23841, "color":"yellow", "GDP": 23841},
+            {"name": "2018", "value": 24665, "color":"green", "GDP": 24665},
+            {"name": "2019", "value": 25514, "color":"green", "GDP": 25514},
+            {"name": "2020", "value": 23267, "color":"yellow", "GDP": 23267},
+            {"name": "2021", "value": 20426, "color":"red", "GDP": 20426}
+           ]
+          },
+          {
+           "name": "Food and Beverages",
+           "color":"red",
+           "children": [
+            {"name": "2015", "value": 28352, "color":"red", "GDP": 28352},
+            {"name": "2016", "value": 31745, "color":"red", "GDP": 31745},
+            {"name": "2017", "value": 35702, "color":"yellow", "GDP": 35702},
+            {"name": "2018", "value": 40596, "color":"green", "GDP": 40596},
+            {"name": "2019", "value": 46277, "color":"green", "GDP": 46277},
+            {"name": "2020", "value": 37796, "color":"green", "GDP": 37796},
+            {"name": "2021", "value": 35927, "color":"yellow", "GDP": 35927}
+           ]
+          },
+          {
+           "name": "Accomodation",
+           "color":"Red",
+           "children": [
+            {"name": "2015", "value": 7867, "color":"yellow", "GDP": 7867},
+            {"name": "2016", "value": 8408, "color":"yellow", "GDP": 8408},
+            {"name": "2017", "value": 9037, "color":"green", "GDP": 9037},
+            {"name": "2018", "value": 9738, "color":"green", "GDP": 9738},
+            {"name": "2019", "value": 10528, "color":"green", "GDP": 10528},
+            {"name": "2020", "value": 5248, "color":"red", "GDP": 5248},
+            {"name": "2021", "value": 4020, "color":"red", "GDP": 4020}
+           ]
+          },
+          {
+           "name": "Transport and Storage",
+           "color":"Yellow",
+           "children": [
+            {"name": "2015", "value": 42057, "color":"red", "GDP": 42057},
+            {"name": "2016", "value": 45234, "color":"yellow", "GDP": 45234},
+            {"name": "2017", "value": 48786, "color":"yellow", "GDP": 48786},
+            {"name": "2018", "value": 52707, "color":"green", "GDP": 52707},
+            {"name": "2019", "value": 57107, "color":"green", "GDP": 57107},
+            {"name": "2020", "value": 45555, "color":"yellow", "GDP": 45555},
+            {"name": "2021", "value": 46718, "color":"yellow", "GDP": 46718}
+           ]
+          }
+      ]
+     }
+     
+      
+     
+    ]
+   }
+   

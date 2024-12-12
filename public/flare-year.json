@@ -1,0 +1,61 @@
+
+{
+    "name": "flare",
+    "children": [
+     {
+        "name": "Year",
+        "color":"Gainsboro",
+        "children": [
+         
+         {
+        "name": "2015-2023",
+        "color":"green",
+      "children": [
+       {"name": "2015", "value": 1000, "color":"red", "GDP": 1176941},
+       {"name": "2016", "value": 2000, "color":"red", "GDP": 1249697},
+       {"name": "2017", "value": 3000, "color":"red", "GDP": 1372310},
+       {"name": "2018", "value": 5000, "color":"Gold", "GDP": 1447760},
+       {"name": "2019", "value": 6000, "color":"Gold", "GDP": 1512738},
+       {"name": "2020", "value": 4000, "color":"Gold", "GDP": 1418490},
+       {"name": "2021", "value": 7000, "color":"SeaGreen", "GDP": 1548899},
+       {"name": "2022", "value": 8000, "color":"SeaGreen", "GDP": 1791358},
+       {"name": "2023", "value": 9000, "color":"SeaGreen", "GDP": 1822647}
+       
+      ]
+         },
+         {
+        "name": "2005-2014",
+        "color":"yellow",
+        "children": [
+         {"name": "2005", "value": 100, "color":"red", "GDP": 543578},
+         {"name": "2006", "value": 200, "color":"red", "GDP": 596784},
+         {"name": "2007", "value": 300, "color":"red", "GDP": 665340},
+         {"name": "2008", "value": 500, "color":"yellow", "GDP": 769949},
+         {"name": "2009", "value": 400, "color":"yellow", "GDP": 712857},
+         {"name": "2010", "value": 600, "color":"yellow", "GDP": 797327},
+         {"name": "2011", "value": 700, "color":"green", "GDP": 885339},
+         {"name": "2012", "value": 800, "color":"green", "GDP": 941949},
+         {"name": "2013", "value": 900, "color":"green", "GDP": 986733},
+         {"name": "2014", "value": 1000, "color":"green", "GDP": 1070008}
+         
+        ]
+           },
+           {
+            "name": "2015-2023",
+            "color":"red",
+          "children": [
+           {"name": "1996", "value": 10, "color":"firebrick", "GDP": 253722},
+           {"name": "1997", "value": 20, "color":"firebrick", "GDP": 281795},
+           {"name": "1998", "value": 30, "color":"firebrick", "GDP": 283243},
+           {"name": "1999", "value": 40, "color":"Gold", "GDP": 300764},
+           {"name": "2000", "value": 60, "color":"Gold", "GDP": 356401},
+           {"name": "2001", "value": 50, "color":"Gold", "GDP": 352401},
+           {"name": "2002", "value": 70, "color":"SeaGreen", "GDP": 383213},
+           {"name": "2003", "value": 80, "color":"SeaGreen", "GDP": 418769},
+           {"name": "2004", "value": 90, "color":"SeaGreen", "GDP": 474048}
+           
+          ]
+             }
+        ]
+       }
+    ]}
